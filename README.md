@@ -3,13 +3,13 @@
 ## Tableau Projects  
 
 1. **Amazon Sales in India**  
-   Analyzed Amazon's sales trends, identifying top-performing categories, regional sales, and revenue growth drivers.  
+   - Analyzed Amazon's sales trends, identifying top-performing categories, regional sales, and revenue growth drivers.  
 
 2. **Airbnb Dashboard**  
-   Visualized Airbnb listings, pricing, and occupancy trends across various cities to uncover market insights.  
+   - Visualized Airbnb listings, pricing, and occupancy trends across various cities to uncover market insights.  
 
 3. **COVID-19 Dashboard**  
-   Tracked global COVID-19 cases, deaths, and recovery rates with region-wise analysis.  
+   - Tracked global COVID-19 cases, deaths, and recovery rates with region-wise analysis.  
 
 4. **Customer Analysis Dashboard**  
    Explored customer demographics, purchasing patterns, and retention trends to support marketing strategies.  

@@ -67,4 +67,4 @@
    - Reviewed revenue streams, expense breakdowns, and profitability by department.  
 
 10. **Real Estate Dashboard**  
-   - Mapped property trends, prices, and sales data across different locations.  
+      - Mapped property trends, prices, and sales data across different locations.  

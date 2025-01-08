@@ -1,5 +1,37 @@
 # Data Visualization Projects   
 
+## Power BI Projects  
+
+1. **USA Crime Data Analysis**  
+   - Mapped and analyzed crime trends by agency jurisdiction, population, and crime types.  
+
+2. **Coffee Shop Sales Dashboard**  
+   - Compared actual vs. target sales, categorized performance by product, outlet, and region.  
+
+3. **Superstore Sales Dashboard**  
+   - Investigated sales and profit trends by region, city, and product category.  
+
+4. **Sales Performance Dashboard**  
+   - Analyzed sales growth, product profitability, and customer segments.  
+
+5. **Employee Performance Dashboard**  
+   - Visualized employee KPIs, attendance, and departmental performance.  
+
+6. **Retail Sales Analysis**  
+   - Explored product performance, revenue trends, and customer purchasing habits.  
+
+7. **Healthcare Resource Allocation Dashboard**  
+   - Optimized resource distribution based on patient data and demand analysis.  
+
+8. **E-commerce Insights Dashboard**  
+   - Tracked key metrics like order volumes, revenue, and conversion rates.  
+
+9. **Finance Analysis Dashboard**  
+   - Reviewed revenue streams, expense breakdowns, and profitability by department.  
+
+10. **Real Estate Dashboard**  
+      - Mapped property trends, prices, and sales data across different locations.  
+---
 ## Tableau Projects  
 
 1. **Amazon Sales in India**  
@@ -34,37 +66,3 @@
 
 11. **Sales Dashboard**  
     - Reviewed sales performance across regions, categories, and timeframes to monitor business growth.
-
----
-
-## Power BI Projects  
-
-1. **USA Crime Data Analysis**  
-   - Mapped and analyzed crime trends by agency jurisdiction, population, and crime types.  
-
-2. **Coffee Shop Sales Dashboard**  
-   - Compared actual vs. target sales, categorized performance by product, outlet, and region.  
-
-3. **Superstore Sales Dashboard**  
-   - Investigated sales and profit trends by region, city, and product category.  
-
-4. **Sales Performance Dashboard**  
-   - Analyzed sales growth, product profitability, and customer segments.  
-
-5. **Employee Performance Dashboard**  
-   - Visualized employee KPIs, attendance, and departmental performance.  
-
-6. **Retail Sales Analysis**  
-   - Explored product performance, revenue trends, and customer purchasing habits.  
-
-7. **Healthcare Resource Allocation Dashboard**  
-   - Optimized resource distribution based on patient data and demand analysis.  
-
-8. **E-commerce Insights Dashboard**  
-   - Tracked key metrics like order volumes, revenue, and conversion rates.  
-
-9. **Finance Analysis Dashboard**  
-   - Reviewed revenue streams, expense breakdowns, and profitability by department.  
-
-10. **Real Estate Dashboard**  
-      - Mapped property trends, prices, and sales data across different locations.  
